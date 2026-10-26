@@ -12,4 +12,4 @@ Kullanıcılara günlük işlerinde (hesaplama, selamlama vb.) yardımcı olacak
 Bu asistanın ilerleyen zamanlarda şu özellikleri kazanacak
 * **v1.0:** Akıllı Menü entegrasyonu
 * **v2.0:** Veri saklama ve geçmişi hatırda tutma özellikleri
-* **v3.0:** Gelişmiş doğal dil işleme yetenekleri
+* **v3.0:** Gelişmiş doğal dil işleme yetenekleri 
