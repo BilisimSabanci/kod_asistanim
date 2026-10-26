@@ -14,6 +14,7 @@ Bu asistanın ilerleyen zamanlarda şu özellikleri kazanacak
 * **v2.0:** Veri saklama ve geçmişi hatırda tutma özellikleri
 * **v3.0:** Gelişmiş doğal dil işleme yetenekleri 
 
+## Projenin Sözde Kodu
 >1. Adım: BAŞLA. 
 >2. Adım: saat = 1 olarak ayarla. 
 >3. Adım: Sensörden o saatteki su seviyesi bilgisini oku (su_seviyesi). 
